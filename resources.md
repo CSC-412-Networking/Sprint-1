@@ -14,7 +14,7 @@
         Parity checks
         Checksums
         CRC
-    -Multiplexing:
+    - Multiplexing:
         TDMA
         FDMA
         CDMA
