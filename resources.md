@@ -59,7 +59,7 @@
 
 * LinkedIn Learning: [Topic 5: IEEE 802.11 overview](https://www.linkedin.com/learning/wireshark-advanced-tools-and-techniques/ieee-802-11-overview?u=49112041)
 
-* LinkedIn Learning: [Topic 5:Hubs, Bridges and Switches](https://www.linkedin.com/learning/networking-foundations-network-media-wans/hubs-bridges-and-switches?u=49112041)
+* LinkedIn Learning: [Topic 6: Hubs, Bridges and Switches](https://www.linkedin.com/learning/networking-foundations-network-media-wans/hubs-bridges-and-switches?u=49112041)
 
 * Youtube: [Topic 1: Computer Networks: LAN, MAN, WAN](https://www.youtube.com/watch?v=9BIN99rHOCQ)
 
