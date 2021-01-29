@@ -1,4 +1,4 @@
-# Sprint 0 resources
+# Sprint 1 resources
 
 ## Topics:
 
@@ -25,8 +25,6 @@
 
 
 ## Resources:
-
-* Book:
 
 * Book: [Wireless Technologies and 802.11 standards](https://book.systemsapproach.org/direct/wireless.html#)
 
