@@ -25,9 +25,12 @@
 
 ## Resources:
 
-* Book: [Wireless Technologies and 802.11 standards](https://book.systemsapproach.org/direct/wireless.html#){:target="_blank" rel="noopener"}
 
-* Book: [Overview of PAN, LAN, WAN](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=41){:target="_blank" rel="noopener"} (Page 17-27)
+* Book: [Wireless Technologies and 802.11 standards]<a href="https://book.systemsapproach.org/direct/wireless.html#" target="_blank">external link</a>
+
+* Book: [Wireless Technologies and 802.11 standards](https://book.systemsapproach.org/direct/wireless.html#)
+
+* Book: [Overview of PAN, LAN, WAN](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=41)
 
 * Book: [Digital Suscriber Line (DSL)](https://vulms.vu.edu.pk/Courses/CS206/Downloads/Cisco.Press.Computer.Networking.First.Step.Apr.2004.INTERNAL.pdf#page=363) (Page 363-366)
 
