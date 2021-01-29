@@ -34,11 +34,11 @@
 
 * Book: [Digital Suscriber Line (DSL)](https://vulms.vu.edu.pk/Courses/CS206/Downloads/Cisco.Press.Computer.Networking.First.Step.Apr.2004.INTERNAL.pdf#page=363) (Page 363-366)
 
-* Book: [On Multiplexing and Demultiplexing](https://eclass.teicrete.gr/modules/document/file.php/TP326/Θεωρία (Lectures)/Computer_Networking_A_Top-Down_Approach.pdf#page=218) (Page 191-198)
+* Book: [On Multiplexing and Demultiplexing](https://bit.ly/2NMCGZg) (Page 191-198)
 
 * Book: [Modems, ADSL, and Fiber](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=168) (Page 144-152)
 
-* Book: [Error-Detection and -Correction Techniques: parity checks, checksumming and CRC](https://eclass.teicrete.gr/modules/document/file.php/TP326/Θεωρία (Lectures)/Computer_Networking_A_Top-Down_Approach.pdf#page=465)
+* Book: [Error-Detection and -Correction Techniques: parity checks, checksumming and CRC](https://bit.ly/3j11uYM) (Page 438-445)
 
 * Book: [More on Multiplexing and Dmultiplexing](https://book.systemsapproach.org/foundation/architecture.html#multiplexing-and-demultiplexing)
 
