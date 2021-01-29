@@ -26,7 +26,7 @@
 ## Resources:
 
 
-* Book: [Wireless Technologies and 802.11 standards]<a href="https://book.systemsapproach.org/direct/wireless.html#" target="_blank">external link</a>
+* Book: <a href="https://book.systemsapproach.org/direct/wireless.html#" target="_blank">Wireless Technologies and 802.11 standards</a>
 
 * Book: [Wireless Technologies and 802.11 standards](https://book.systemsapproach.org/direct/wireless.html#)
 
