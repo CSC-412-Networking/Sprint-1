@@ -3,80 +3,77 @@
 ## Topics:
 
 1. LAN/WAN/PAN/xAN
-2. Physical:
-    - Cat 5/5e/6/...
-    - Fiber
-    - Cable, DSL, Satellite, etc.
-    - Wireless
-        IEEE 802.11
-    - Hubs
-    - Error Handling:
-        Parity checks
-        Checksums
-        CRC
-    - Multiplexing:
-        TDMA
-        FDMA
-        CDMA
-        ALOHA
-        Slotted ALOHA
-        CSMA
-        CSMA-CD
+2. Cat 5/5e/6/...
+3. Fiber
+4. Cable, DSL, Satellite, etc.
+5. Wireless
+    - IEEE 802.11
+6. Hubs
+7. Error Handling:
+    - Parity checks
+    - Checksums
+    - CRC
+7. Multiplexing:
+    - TDMA
+    - FDMA
+    - CDMA
+    - ALOHA
+    - Slotted ALOHA
+    - CSMA
+    - CSMA-CD
+
 
 ## Resources:
 
-
 * Book: <a href="https://book.systemsapproach.org/direct/wireless.html#" target="_blank">Wireless Technologies and 802.11 standards</a>
 
-* Book: [Wireless Technologies and 802.11 standards](https://book.systemsapproach.org/direct/wireless.html#)
+* Book: <a href="http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=41">Overview of PAN, LAN, WAN</a>
 
-* Book: [Overview of PAN, LAN, WAN](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=41)
+* Book: <a href="https://vulms.vu.edu.pk/Courses/CS206/Downloads/Cisco.Press.Computer.Networking.First.Step.Apr.2004.INTERNAL.pdf#page=363">Digital Suscriber Line (DSL)</a> (Page 363-366)
 
-* Book: [Digital Suscriber Line (DSL)](https://vulms.vu.edu.pk/Courses/CS206/Downloads/Cisco.Press.Computer.Networking.First.Step.Apr.2004.INTERNAL.pdf#page=363) (Page 363-366)
+* Book: <a href="https://bit.ly/2NMCGZg">On Multiplexing and Demultiplexing</a> (Page 191-198)
 
-* Book: [On Multiplexing and Demultiplexing](https://bit.ly/2NMCGZg) (Page 191-198)
+* Book: <a href="http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=168">Modems, ADSL, and Fiber</a> (Page 144-152)
 
-* Book: [Modems, ADSL, and Fiber](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=168) (Page 144-152)
+* Book: <a href="https://bit.ly/3j11uYM">Error-Detection and -Correction Techniques: parity checks, checksumming and CRC</a> (Page 438-445)
 
-* Book: [Error-Detection and -Correction Techniques: parity checks, checksumming and CRC](https://bit.ly/3j11uYM) (Page 438-445)
+* Book: <a href="https://book.systemsapproach.org/foundation/architecture.html#multiplexing-and-demultiplexing">More on Multiplexing and Dmultiplexing</a>
 
-* Book: [More on Multiplexing and Dmultiplexing](https://book.systemsapproach.org/foundation/architecture.html#multiplexing-and-demultiplexing)
+* Book: <a href="https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf#page=40">DSL, Cable, FTTH, Dial-Up, and Satellite</a> (Page 13-22)
 
-* Book: [DSL, Cable, FTTH, Dial-Up, and Satellite](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf#page=40)(Page 13-22)
+* Book: <a href="http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=365">A little bit on hubs</a> (Page 341)
 
-* Book: [A little bit on hubs](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=365) (Page 341)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/securing-the-iot-introduction/lans-wans-pans?u=49112041">LANS, PANS and WANS</a>
 
-* LinkedIn Learning: [LANS, PANS and WANS](https://www.linkedin.com/learning/securing-the-iot-introduction/lans-wans-pans?u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/comptia-server-plus-sk0-004-cert-prep-5-networking/copper-cables?u=49112041">Copper Cables</a>
 
-* LinkedIn Learning: [Copper Cables](https://www.linkedin.com/learning/comptia-server-plus-sk0-004-cert-prep-5-networking/copper-cables?u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/comptia-server-plus-sk0-004-cert-prep-5-networking/fiber-cables?resume=false&u=49112041">Fiber Cables</a>
 
-* LinkedIn Learning: [Fiber Cables](https://www.linkedin.com/learning/comptia-server-plus-sk0-004-cert-prep-5-networking/fiber-cables?resume=false&u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/digital-subscriber-line-dsl?u=49112041">Digital Suscriber Line (DSL)</a>
 
-* LinkedIn Learning: [Digital Suscriber Line (DSL)](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/digital-subscriber-line-dsl?u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/connect-with-satellites?u=49112041">Connect with Satellites</a>
 
-* LinkedIn Learning: [Connect with Satellites](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/connect-with-satellites?u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/connect-with-cable-modems?u=49112041">Connect with cable modems</a>
 
-* LinkedIn Learning: [Connect with cable modems](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/connect-with-cable-modems?u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/connect-with-dial-up?u=49112041">Connect with Dial Up</a>
 
-* LinkedIn Learning: [Connect with Dial Up](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/connect-with-dial-up?u=49112041)
+* LinkedIn Learning: <a href="https://www.linkedin.com/learning/wireshark-advanced-tools-and-techniques/ieee-802-11-overview?u=49112041">IEEE 802.11 overview</a>
 
-* LinkedIn Learning: [IEEE 802.11 overview](https://www.linkedin.com/learning/wireshark-advanced-tools-and-techniques/ieee-802-11-overview?u=49112041)
+* Youtube: <a href="https://www.youtube.com/watch?v=9BIN99rHOCQ">Computer Networks: LAN, MAN, WAN</a>
 
-* Youtube: [Computer Networks: LAN, MAN, WAN](https://www.youtube.com/watch?v=9BIN99rHOCQ)
+* Youtube: <a href="https://www.youtube.com/watch?v=_NX99ad2FUA">Ethernet Cables, CAT 5,5e,6,7,8 Network Cables</a>
 
-* Youtube: [Ethernet Cables, CAT 5,5e,6,7,8 Network Cables](https://www.youtube.com/watch?v=_NX99ad2FUA)
+* Youtube: <a href="https://www.youtube.com/watch?v=8XeY-0WDf3c&list=PL2jykFOD1AWZlfwMPcVKwaFrRXbqObI3U&index=81">Cables: CAT 5,5e,6,7,8</a>
 
-* Youtube: [Cables: CAT 5,5e,6,7,8](https://www.youtube.com/watch?v=8XeY-0WDf3c&list=PL2jykFOD1AWZlfwMPcVKwaFrRXbqObI3U&index=81)
+* Youtube: <a href="https://www.youtube.com/watch?v=AtVWnyDDaDI">Checksum</a>
 
-* Youtube: [Checksum](https://www.youtube.com/watch?v=AtVWnyDDaDI)
+* Youtube: <a href="https://www.youtube.com/watch?v=DdMcAUlxh1M">Parity Checks</a>
 
-* Youtube: [Parity Checks](https://www.youtube.com/watch?v=DdMcAUlxh1M)
+* Youtube: <a href="https://www.youtube.com/watch?v=A9g6rTMblz4">CRC</a>
 
-* Youtube: [CRC](https://www.youtube.com/watch?v=A9g6rTMblz4)
+* Youtube: <a href="https://www.youtube.com/watch?v=KviHyRss-dE">FDMA, TDMA and CDMA</a>
 
-* Youtube: [FDMA, TDMA and CDMA](https://www.youtube.com/watch?v=KviHyRss-dE)
-
-* Youtube: [IEEE 802.11](https://www.youtube.com/watch?v=t3FVP5wuG4g)
+* Youtube: <a href="https://www.youtube.com/watch?v=t3FVP5wuG4g">IEEE 802.11</a>
 
 
 
