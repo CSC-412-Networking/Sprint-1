@@ -10,11 +10,11 @@
 
 1. Book: [Wireless Technologies and 802.11 standards](https://book.systemsapproach.org/direct/wireless.html#)
 
-2. Book: [Error-Detection and -Correction Techniques: parity checks, checksumming and CRC](https://bit.ly/3j11uYM) (Page 438-445)
+2. Book: [Error-Detection and -Correction Techniques: parity checks, checksumming and CRC](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf#page=465) (Page 438-445)
 
 3. Book: [More on Multiplexing and Dmultiplexing](https://book.systemsapproach.org/foundation/architecture.html#multiplexing-and-demultiplexing)
 
-4. Book: [On Multiplexing and Demultiplexing](https://bit.ly/2NMCGZg) (Page 191-198)
+4. Book: [On Multiplexing and Demultiplexing](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf#page=218) (Page 191-198)
 
 5. LinkedIn Learning: [IEEE 802.11 overview](https://www.linkedin.com/learning/wireshark-advanced-tools-and-techniques/ieee-802-11-overview?u=49112041)
 
