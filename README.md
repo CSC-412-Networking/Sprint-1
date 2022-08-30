@@ -2,8 +2,8 @@
 
 ## Learning Objectives
 - Develop a basic understanding of wireless networking
-- Explore in-depth on different Error Handling methods 
-- Examine the relationship between multiplexing in networking
+- Explore in-depth different Error Handling methods 
+- Examine the relationship between multiplexing and networking
 
 ## Topics:
 - **Wireless:** IEEE 802.11/Bluetooth/NFC/RFID
