@@ -1,17 +1,14 @@
-# Sprint 1: Physical layer
+# Sprint 1: Wireless, Error Handling, and Multiplexing
 
 ## Learning Objectives
-- Develop a basic understanding of the physical layer of networking
-- Explore in-depth two topics in the physical layer
-- Examine the relationship between two or more physical layer components
+- Develop a basic understanding of wireless networking
+- Explore in-depth on different Error Handling methods 
+- Examine the relationship between multiplexing and netoworking
 
 ## Topics:
-- Topologies: LAN/WAN/PAN/xAN
-- Mediums: Cat 5/5e/6/7/8, Fiber, Cable, DSL, Satellite, etc.
-- Wireless: IEEE 802.11/Bluetooth/NFC/RFID
-- Hubs
-- Error Handling: Parity checks, Checksums, CRC, CSMA, CSMA-CD
-- Multiplexing: TDMA, FDMA, CDMA, ALOHA, Slotted ALOHA
+- **Wireless:** IEEE 802.11/Bluetooth/NFC/RFID
+- **Error Handling:** Parity checks, Checksums, CRC, CSMA, CSMA-CD
+- **Multiplexing:** TDMA, FDMA, CDMA, ALOHA, Slotted ALOHA
 
 ## Known Resources
 
@@ -38,6 +35,6 @@ For full credit, by the end of the sprint you will need to have evidence the fol
 - **Build**: Composed of your code repository, code quality, build completeness, and code documentation
 - **Demonstration**: Composed of your Friday demonstration, including topic coverage, clarity of presentation, and how well you are addressing questions
 
-Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/c/Pw5RMuYj/9-sprint-rubrics "CSC 412 Trello Board - Spring Rubrics"). 
+Complete rubrics are available for each metric above on the course [Trello board](https://trello.com/b/ZCZcI7ng/csc-412-networking). 
 
 All items should be in your Github repository before 11:55pm on Friday, February 12th.
