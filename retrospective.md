@@ -12,9 +12,7 @@ The sprint retrospective is due at the end of the sprint, however, some componen
 
 ## Communication
 
-Link to Trello: *Put a link to your Trello board here*
-
-All cards should be moved to the correct column, updated with the current status, and match the state of the product.
+Google Drive: *Put a link to your Trello board here*
 
 Slack Channel:  *Put a link to your Slack channel here*
 
