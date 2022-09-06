@@ -4,23 +4,19 @@ The sprint retrospective is due at the end of the sprint, however, some componen
 
 Retrospectives should include the following items:
 
-- An updated Trello board
-- An updated issue queue in Github
 - A list of all external resources used
 - A brief reflection on the process
 - Final Exam questions
 
-## Trello Board
+The sprint retrospective is due at the end of the sprint, however, some components may make sense to complete throughout the sprint, such as the list of resources you are using.
+
+## Communication
+
+Link to Trello: *Put a link to your Trello board here*
 
 All cards should be moved to the correct column, updated with the current status, and match the state of the product.
 
-Link to Trello: *Put a link to your Trello board board here*
-
-## Github Issue Queue
-
-No product is ever truly complete; this is your opportunity to acknowledge the work that remains. Any incomplete items should have an issue associated with them. Any issues that the instructor can easily identify that are not in the issue queue will count against your "Plan" grade.
-
-*Nothing needs done here, as long as your repository's issue queue is current*
+Slack Channel:  *Put a link to your Slack channel here*
 
 ## List of External Resource Used this Sprint
 
