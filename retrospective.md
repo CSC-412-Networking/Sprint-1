@@ -26,7 +26,7 @@ All resources should be listed here. For each resource, in a sentence, describe 
 
 ## Future Exam questions
 
-Add at least four questions to the [Final Exam Questions file](exam.md "Final Exam Questions file"). The better the questions, the more likely they are to appear on the exam.
+Add at least *two questions per person* to the [Final Exam Questions file](exam.md "Final Exam Questions file"). The better the questions, the more likely they are to appear on the exam.
 
 ## Reflections
 
